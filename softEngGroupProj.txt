@@ -1,0 +1,19 @@
+# Part 1
+Company Name: Jamd
+Application Name: frap
+Product Owner: Devin Moore
+ScrumMaster: Adam Pogwizd
+Development Team: Josh Hapner, Michael Moyer
+
+# Part 2
+(be certain all members and the instructor are added to project)
+Project Name: frap
+URL for Pivotal Tracker project: https://www.pivotaltracker.com/s/projects/1186636
+
+# Part 3
+(be certain all members are added to repository and everyone commits/pushes)
+Repository Name: frap
+URL for GitHub repository: https://github.com/Adam7700/frap.git
+
+# Part 4
+User story number that shows post-commit integration with GitHub: 80607988
